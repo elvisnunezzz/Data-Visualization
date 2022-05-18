@@ -27,13 +27,22 @@ The program is  taking information (data) and placing it into a visual context, 
 
 
 <p align="center">
-Install VMWare Player: <br/>
-<img src="https://i.imgur.com/lIgxJgn.png" height="80%" width="80%" alt="Identity-Security"/>
+Outpot from excel: <br/>
+<img src="https://github.com/elvisnunezzz/Data-Visualization/blob/main/pictures/2tables.png" height="80%" width="80%" alt="Identity-Security"/>
 <br />
 <br />
-Download and Install Nessus Essentials :  <br/>
-<img src="https://i.imgur.com/GxNSVo1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
-<img src="https://i.imgur.com/1lAQxXX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Verify password  :  <br/>
+<img src="https://github.com/elvisnunezzz/Data-Visualization/blob/main/pictures/password.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <br/>
+User Inferface: <br/>
+<img src="https://github.com/elvisnunezzz/Data-Visualization/blob/main/pictures/Screenshot_1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Bar Chart: <br/>
+<img src="https://github.com/elvisnunezzz/Data-Visualization/blob/main/pictures/robert.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ 
+
+ 
