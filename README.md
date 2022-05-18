@@ -43,6 +43,10 @@ Bar Chart: <br/>
 <img src="https://github.com/elvisnunezzz/Data-Visualization/blob/main/pictures/robert.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Users in SQL Database: <br/>
+<img src="https://github.com/elvisnunezzz/Data-Visualization/blob/main/pictures/data.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
  
 
  
