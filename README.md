@@ -3,6 +3,7 @@ The program is  taking information (data) and placing it into a visual context, 
 
 
 <br />
+<h2>Lab</h2>
 
 <h2>Languages and Utilities Used</h2>
 
