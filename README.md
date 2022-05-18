@@ -4,7 +4,9 @@ The program is  taking information (data) and placing it into a visual context, 
 
 <br />
 <h2>Lab</h2>
-[Project Lab ](https://www.google.com)
+
+[Word Document Report](https://github.com/elvisnunezzz/Data-Visualization/blob/main/Elvis_Nunez_CPS4745_project2.docx)
+
 <h2>Languages and Utilities Used</h2>
 
 - <b>PHP</b> 
@@ -24,3 +26,14 @@ The program is  taking information (data) and placing it into a visual context, 
 <h2>Program walk-through:</h2>
 
 
+<p align="center">
+Install VMWare Player: <br/>
+<img src="https://i.imgur.com/lIgxJgn.png" height="80%" width="80%" alt="Identity-Security"/>
+<br />
+<br />
+Download and Install Nessus Essentials :  <br/>
+<img src="https://i.imgur.com/GxNSVo1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<img src="https://i.imgur.com/1lAQxXX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
